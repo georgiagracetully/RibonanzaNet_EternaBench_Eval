@@ -1,6 +1,10 @@
 # RibonanzaNet_EternaBench_Eval
 Finetuning and evaluating RibonanzaNet on EternaBench Datasets
 
+**RibonanzaNet**: (1)	He, S.; Huang, R.; Townley, J.; Kretsch, R. C.; Karagianes, T. G.; Cox, D. B. T.; Blair, H.; Penzar, D.; Vyaltsev, V.; Aristova, E.; Zinkevich, A.; Bakulin, A.; Sohn, H.; Krstevski, D.; Fukui, T.; Tatematsu, F.; Uchida, Y.; Jang, D.; Lee, J. S.; Shieh, R.; Ma, T.; Martynov, E.; Shugaev, M. V.; Bukhari, H. S. T.; Fujikawa, K.; Onodera, K.; Henkel, C.; Ron, S.; Romano, J.; Nicol, J. J.; Nye, G. P.; Wu, Y.; Choe, C.; Reade, W.; Eterna participants; Das, R. Ribonanza: Deep Learning of RNA Structure through Dual Crowdsourcing. bioRxivorg 2024. https://doi.org/10.1101/2024.02.24.581671.
+
+**EternaBench**: (2)	Wayment-Steele, H. K.; Kladwang, W.; Strom, A. I.; Lee, J.; Treuille, A.; Becka, A.; Participants, E.; Das, R. RNA Secondary Structure Packages Evaluated and Improved by High-Throughput Experiments. Nat. Methods 2022, 19 (10), 1234–1242. https://doi.org/10.1038/s41592-022-01605-0.
+
 Three different benchmark datasets were evaluated: 
 * Secondary Structure datasets
 * Chemical Mapping Datasets
