@@ -6,9 +6,9 @@ Finetuning and evaluating RibonanzaNet on EternaBench Datasets
 **EternaBench**: (2)	Wayment-Steele, H. K.; Kladwang, W.; Strom, A. I.; Lee, J.; Treuille, A.; Becka, A.; Participants, E.; Das, R. RNA Secondary Structure Packages Evaluated and Improved by High-Throughput Experiments. Nat. Methods 2022, 19 (10), 1234–1242. https://doi.org/10.1038/s41592-022-01605-0.
 
 Three different benchmark datasets were evaluated: 
-* Secondary Structure datasets
-* Chemical Mapping Datasets
-* Riboswitch Equilibrium Constant Datasets
+* Secondary Structure 
+* Chemical Mapping 
+* Riboswitch Binding Equilibrium Constants
 
 Step by step instructions on how I used .json files generated from provided colab notebooks to evaluate RibonanzaNet (a deep learning model implemented in Pytorch) on eternabench datasets, and compare with other packages: 
 * Step 1: Run predictions in google colab notebooks located in **SS-evaluation**, **CM-evaluation**, and **RS-evaluation**
